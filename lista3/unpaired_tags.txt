@@ -1,0 +1,25 @@
+<!--
+<br>
+<hr>
+<link rel
+<img src
+<!doctype html>
+<area>
+<base href
+<basefont>
+<bgsound src
+<button type
+<col attribute
+<embed attributes
+<frame/>
+<frameset cols
+<input type
+<isindex prompt
+<keygen name
+<meta
+<param name
+<spacer type
+<tagname style
+<svg height
+<track attribute
+<wbr
